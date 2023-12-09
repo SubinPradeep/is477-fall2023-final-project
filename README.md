@@ -7,7 +7,7 @@ The Wine Recognition dataset comprises chemical analysis results of wines from t
 The classification report reveals excellent performance in predicting the wine cultivar classes (1, 2, and 3) based on the feature attributes described in the Wine Recognition dataset. The precision, recall, and F1-score metrics for each class indicate high accuracy, with class 1 achieving perfect precision and recall. The overall accuracy stands at 97%, showcasing the model's effectiveness in discriminating between the three types or classes of wine. The model's consistent performance underscores its reliability for precise wine classification grounded in chemical composition.
 
 ## Workflow
-<img src = "results/graph.png" width="150">
+<img src = "results/graph.png" width="450">
 
 ## Reproducing
 To reproduce the results in this repository, refer to the following steps:
