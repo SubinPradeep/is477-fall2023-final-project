@@ -1,5 +1,7 @@
 # IS 477 Fall 2023 Final Project - Subin Pradeep
 
+[![DOI](https://zenodo.org/badge/728571321.svg)](https://zenodo.org/doi/10.5281/zenodo.10312374)
+
 ## Overview
 The Wine Recognition dataset comprises chemical analysis results of wines from three different cultivars in the same Italian region. Each wine is characterized by 13 continuous attributes, including alcohol content, malic acid, and color intensity. Hence there are 13 features and 1 target (the type of wine). The dataset is often utilized for classifier comparison and with no missing values, it serves as a well-posed problem for testing and evaluating new classifiers. For my project, I will be evaluating the performance of a multinomial logistic regression model when trying to predict the target variable using the available 13 features. 
 
