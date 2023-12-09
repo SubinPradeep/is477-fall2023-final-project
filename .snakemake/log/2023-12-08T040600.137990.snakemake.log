@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Relative file path './data/wine.data' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './profiling/report.html' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/Index' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/wine.data' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './data/wine.names' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job        count
+-------  -------
+profile        1
+total          1
+
+Select jobs to execute...
+
+[Fri Dec  8 04:06:00 2023]
+rule profile:
+    input: ./data/wine.data
+    output: ./profiling/report.html
+    jobid: 0
+    reason: Missing output files: ./profiling/report.html
+    resources: tmpdir=/var/folders/zn/c3p45tzj01g5kzxf3374t0lw0000gn/T
+
+[Fri Dec  8 04:06:13 2023]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: .snakemake/log/2023-12-08T040600.137990.snakemake.log

@@ -1,0 +1,22 @@
+{
+    "title": "IS477 Fall 2023 Final Project",
+    "description": "In this final project, I will apply many of the techniques that I have learned throughout the course.",
+    "creators": [
+    {
+    "name": "Pradeep, Subin",
+    "orcid": "0009-0000-7029-8875"
+    }
+    ],
+    "related_identifiers": [
+    {
+    "scheme": "doi",
+    "identifier": "10.24432/C5PC7J",
+    "relation": "cites"
+    }
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT",
+    "keywords": ["prepare", "profile", "analyze"]
+
+}
