@@ -43,7 +43,4 @@ To reproduce the results in this repository, refer to the following steps:
   
 
 ## Citations
-Ding, F., Hardt, M., Miller, J., & Schmidt, L. (2021). Retiring Adult: New Datasets for Fair Machine Learning. ArXiJabs/2108.04884
-https://cps.ipums.org/cps/citation.shtml https://www.ipums.org/about/terms
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#choosing-the-right-licensehttps://opendefinition.org/licenses/
-https://archive.ics.uci.edu/dataset/2/adult https://github.com/socialfoundations/folktables
+Aeberhard,Stefan and Forina,M.. (1991). Wine. UCI Machine Learning Repository. https://doi.org/10.24432/C5PC7J.
